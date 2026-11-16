@@ -1,0 +1,52 @@
+body {
+  background-color: #F8F9FA;
+}
+
+.card {
+  border: none;
+  border-radius: 16px;
+}
+
+.nav-link {
+  color: #2D3748;
+}
+.sales-chart {
+  height: 200px;
+  background: linear-gradient(#8CE4ED, #F8F9FA);
+  border-radius: 12px;
+}
+
+.active-chart {
+  height: 150px;
+  background: #1A2340;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.active-bars {
+  height: 100%;
+}
+
+.active-bar {
+  width: 20px;
+  background: white;
+}
+
+.bar-60 { height: 60%; }
+.bar-40 { height: 40%; }
+.bar-80 { height: 80%; }
+.bar-50 { height: 50%; }
+
+.progress-thin {
+  height: 6px;
+}
+
+.progress-bar-teal {
+  background-color: #8CE4ED;
+}
+
+.fill-60 { width: 60%; }
+.fill-10 { width: 10%; }
+.fill-100 { width: 100%; }
+.fill-25 { width: 25%; }
+.fill-40 { width: 40%; }
